@@ -1,5 +1,6 @@
 # NetEaseCloudMusicInfoGet
 获取网易云音乐升级剩余听歌量，每周听歌量排名，全部听歌量排名
+使用中文变量名
 
 在浏览器， 你的主页，开f12， 查看网络并刷新页面，找到record?csrf_token=xxxxxxx
 之后复制该请求的cookie到 [self.主页Cookie]
